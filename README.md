@@ -18,6 +18,13 @@ Frontend Developer
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 </p>
                     
+![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen)
+![CSS](https://img.shields.io/badge/CSS-75%25-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-50%25-yellow)
+![jQuery](https://img.shields.io/badge/jQuery-25%25-blue)
+![Python](https://img.shields.io/badge/Python-35%25-blue)
+![C](https://img.shields.io/badge/C-15%25-blue)
+
 ### Socials
                   
 <p align="left">
@@ -26,3 +33,7 @@ Frontend Developer
 <!--   <a href="https://badrnezhad.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> -->
 <!--   <a href="https://www.linkedin.com/in/badrnezhad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> -->
   <a href="https://twitter.com/Mersad_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+
+
