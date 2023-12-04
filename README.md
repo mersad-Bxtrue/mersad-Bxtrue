@@ -19,9 +19,9 @@ Frontend Developer
 </p>
 
                     
+![JavaScript](https://img.shields.io/badge/JavaScript-50%25-yellow)
 ![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen)
 ![CSS](https://img.shields.io/badge/CSS-75%25-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-50%25-yellow)
 ![jQuery](https://img.shields.io/badge/jQuery-25%25-blue)
 ![Python](https://img.shields.io/badge/Python-35%25-blue)
 ![C](https://img.shields.io/badge/C-15%25-blue)
