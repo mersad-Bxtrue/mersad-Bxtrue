@@ -33,10 +33,10 @@ Frontend Developer
 ### Socials
                   
 <p align="left">
-  <a href="https://www.instagram.com/mersad_.fallah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/></a>---
-  <a href="https://www.github.com/mersad-Bxtrue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32"/></a>---
-  <a href="https://www.linkedin.com/in/mersad-fallah/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/></a>---
-  <a href="https://twitter.com/Mersad_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/></a>---
+  <a href="https://www.instagram.com/mersad_.fallah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/></a>
+  <a href="https://www.github.com/mersad-Bxtrue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32"/></a>
+  <a href="https://www.linkedin.com/in/mersad-fallah/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="80" height="80"/></a>
+  <a href="https://twitter.com/Mersad_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/></a>
 </p>
 
 
