@@ -19,13 +19,13 @@ Frontend Developer
 </p>
 
                     
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)
 ![HTML](https://img.shields.io/badge/HTML-100%25-brightgreen)
 ![CSS](https://img.shields.io/badge/CSS-100%25-orange)
-![CSS](https://img.shields.io/badge/Tailwind-80%2525-blue)
-![jQuery](https://img.shields.io/badge/React-50%2525-blue)
+![Tailwind](https://img.shields.io/badge/Tailwind-80%2525-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)
+![React](https://img.shields.io/badge/React-50%2525-blue)
 ![jQuery](https://img.shields.io/badge/jQuery-50%25-blue)
-![Python](https://img.shields.io/badge/Python-35%25-blue)
+![Python](https://img.shields.io/badge/Python-35%25-yellow)
 ![C](https://img.shields.io/badge/C-15%25-blue)
 
 ### Socials
