@@ -30,7 +30,7 @@ Frontend Developer
 ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)&nbsp;
 ![React](https://img.shields.io/badge/React-50%25-blue)&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-50%25-blue)&nbsp;
-![Python](https://img.shields.io/badge/Python-35%25-yellow)&nbsp;
+![Python](https://img.shields.io/badge/Python-35%25-green)&nbsp;
 ![C](https://img.shields.io/badge/C-15%25-blue)&nbsp;
 
 ### Socials
