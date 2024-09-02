@@ -27,8 +27,9 @@ Frontend Developer
 
                     
 ![HTML](https://img.shields.io/badge/HTML-100%25-%23E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-100%25-orange)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-100%25-%231572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-70%25-red)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-80%25-%238511FA)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind-80%25-blue)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)&nbsp;
 ![React](https://img.shields.io/badge/React-50%25-skyblue)&nbsp;
