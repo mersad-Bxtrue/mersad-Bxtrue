@@ -11,30 +11,18 @@ Frontend Developer
 ### Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js"/>
-  <img src="https://skillicons.dev/icons?i=react"/>
-  <img src="https://skillicons.dev/icons?i=html"/>
-  <img src="https://skillicons.dev/icons?i=css"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=tailwind"/>
-  <img src="https://skillicons.dev/icons?i=sass"/>
-  <img src="https://skillicons.dev/icons?i=jquery"/>
-  <img src="https://skillicons.dev/icons?i=github"/>
-  <img src="https://skillicons.dev/icons?i=git"/>
-  <img src="https://skillicons.dev/icons?i=python"/>
-  <img src="https://skillicons.dev/icons?i=c"/>
-</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SASS" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=sass" alt="SASS" />
+  <img src="https://skillicons.dev/icons?i=jquery" alt="JQuery" />
+  <img src="https://skillicons.dev/icons?i=github" alt="Github" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
 </p>
 
                     
