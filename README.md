@@ -39,14 +39,14 @@ Frontend Developer
 ### Socials
                   
 <p align="left">
-  <a href="https://www.instagram.com/mersad_.fallah" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
+  <a href="https://www.instagram.com/mersad_.fallah" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="36" height="36"/>
   </a>
-  <a href="https://www.linkedin.com/in/mersad-fallah/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <a href="https://www.linkedin.com/in/mersad-fallah/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36"/>
   </a>
- <a href="https://www.github.com/mersad-Bxtrue" target="_blank" rel="noreferrer">
-   <img src="https://skillicons.dev/icons?i=github"/>
+ <a href="https://www.github.com/mersad-Bxtrue" target="_blank">
+   <img src="https://skillicons.dev/icons?i=github" width="36" height="36"/>
  </a>
 </p>
 
