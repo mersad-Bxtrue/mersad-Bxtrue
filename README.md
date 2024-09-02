@@ -10,18 +10,20 @@ Frontend Developer
                   
 ### Skills
 
-<img src="https://skillicons.dev/icons?i=js">
-<img src="https://skillicons.dev/icons?i=react">
-<img src="https://skillicons.dev/icons?i=html">
-<img src="https://skillicons.dev/icons?i=css">
-<img src="https://skillicons.dev/icons?i=bootstrap">
-<img src="https://skillicons.dev/icons?i=tailwind">
-<img src="https://skillicons.dev/icons?i=sass">
-<img src="https://skillicons.dev/icons?i=jquery">
-<img src="https://skillicons.dev/icons?i=github">
-<img src="https://skillicons.dev/icons?i=git">
-<img src="https://skillicons.dev/icons?i=python">
-<img src="https://skillicons.dev/icons?i=c">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js"/>
+  <img src="https://skillicons.dev/icons?i=react"/>
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skillicons.dev/icons?i=css"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=tailwind"/>
+  <img src="https://skillicons.dev/icons?i=sass"/>
+  <img src="https://skillicons.dev/icons?i=jquery"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=git"/>
+  <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=c"/>
+</p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />&nbsp;&nbsp;
