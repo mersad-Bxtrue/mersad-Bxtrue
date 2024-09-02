@@ -38,7 +38,7 @@ Frontend Developer
 
 ### Socials
                   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/soufi_learn)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soufi_learn)
-[![Github](https://img.shields.io/badge/Github-1e2632.svg?style=for-the-badge&logo=Github&logoColor=white)](https://www.youtube.com/@soufilearn)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mersad_.fallah)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mersad_flh)
+[![Linkedin](https://img.shields.io/badge/Linkedin-197bff.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mersad-fallah/)
 
