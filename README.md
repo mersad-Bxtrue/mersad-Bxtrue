@@ -40,5 +40,5 @@ Frontend Developer
                   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/soufi_learn)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soufi_learn)
-[![Github](https://img.shields.io/badge/Github-0d1117.svg?style=for-the-badge&logo=Github&logoColor=white)](https://www.youtube.com/@soufilearn)
+[![Github](https://img.shields.io/badge/Github-1e2632.svg?style=for-the-badge&logo=Github&logoColor=white)](https://www.youtube.com/@soufilearn)
 
