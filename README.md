@@ -26,14 +26,16 @@ Frontend Developer
 </p>
 
                     
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)&nbsp;
+![React](https://img.shields.io/badge/React-60%25-skyblue)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-100%25-%23E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-100%25-%231572B6)&nbsp;
-![SASS](https://img.shields.io/badge/SASS-70%25-red)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-80%25-%238511FA)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-50%25-%238511FA)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind-80%25-blue)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)&nbsp;
-![React](https://img.shields.io/badge/React-50%25-skyblue)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-70%25-red)&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-50%25-blue)&nbsp;
+![Git](https://img.shields.io/badge/Git-70%25-%23F05033)&nbsp;
+![Github](https://img.shields.io/badge/Github-70%25-%23121011)&nbsp;
 ![Python](https://img.shields.io/badge/Python-35%25-brightgreen)&nbsp;
 ![C](https://img.shields.io/badge/C-15%25-blue)&nbsp;
 
