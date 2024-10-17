@@ -18,11 +18,11 @@ Frontend Developer
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
   <img src="https://skillicons.dev/icons?i=sass" alt="SASS" />
   <img src="https://skillicons.dev/icons?i=jquery" alt="JQuery" />
   <img src="https://skillicons.dev/icons?i=github" alt="Github" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
 </p>
@@ -30,10 +30,12 @@ Frontend Developer
                     
 ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)&nbsp;
 ![React](https://img.shields.io/badge/React-60%25-skyblue)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-60%25-purple)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-100%25-%23E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-100%25-%231572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-50%25-%238511FA)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind-80%25-blue)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-80%25-green)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-70%25-red)&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-50%25-blue)&nbsp;
 ![Git](https://img.shields.io/badge/Git-70%25-%23F05033)&nbsp;
