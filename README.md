@@ -13,6 +13,7 @@ Frontend Developer
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
@@ -21,6 +22,7 @@ Frontend Developer
   <img src="https://skillicons.dev/icons?i=jquery" alt="JQuery" />
   <img src="https://skillicons.dev/icons?i=github" alt="Github" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
 </p>
